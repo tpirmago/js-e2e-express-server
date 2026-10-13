@@ -45,7 +45,7 @@ steps:
   inputs:
     azureSubscription: 'Azure Connection'
     appType: 'webApp'
-    appName: 'tpirmago-exercise-13'
+    appName: 'exercise-13-tpirmago'
     package: '$(System.ArtifactsDirectory)/drop/js-e2e-express-server.zip'
 
 
