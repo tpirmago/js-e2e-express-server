@@ -8,6 +8,6 @@ const hostname = '0.0.0.0';
 server.create()
     .then(app => {
         app.listen(port, hostname, () => {
-            console.log(`Server has started on port ${port}!`);
+            console.log(`Express server has started on port ${port}!`);
         });
     }).catch(err => console.log(err));

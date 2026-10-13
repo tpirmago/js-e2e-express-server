@@ -1,0 +1,26 @@
+﻿{
+  "build_artifactstagingdirectory": "1/a",
+  "agent_builddirectory": "1",
+  "collectionUrl": "https://dev.azure.com/tpirmago24-exercise-13/",
+  "definitionName": "tpirmago.js-e2e-express-server",
+  "repositoryTrackingInfo": [
+    {
+      "identifier": "self",
+      "repositoryType": "GitHub",
+      "repositoryUrl": "https://github.com/tpirmago/js-e2e-express-server",
+      "sourcesDirectory": "1/s/js-e2e-express-server"
+    }
+  ],
+  "fileFormatVersion": 3,
+  "lastRunOn": "10/14/2026 02:11:59 +04:00",
+  "repositoryType": "GitHub",
+  "lastMaintenanceAttemptedOn": "",
+  "lastMaintenanceCompletedOn": "",
+  "build_sourcesdirectory": "1/s",
+  "common_testresultsdirectory": "1/TestResults",
+  "collectionId": "aff97eea-824d-40aa-88d1-296ed25ddda2",
+  "definitionId": "1",
+  "hashKey": "30b9dc546bd01c010504bfa14804c5cdaa6b665e",
+  "repositoryUrl": "https://github.com/tpirmago/js-e2e-express-server",
+  "system": "build"
+}

@@ -1,0 +1,9 @@
+﻿{
+  "acceptTeeEula": true,
+  "agentId": 17,
+  "agentName": "exercise-13",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://dev.azure.com/tpirmago24-exercise-13/",
+  "workFolder": "_work"
+}
